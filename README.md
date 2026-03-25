@@ -1,4 +1,4 @@
-# zmk-for-forager
+# My forager config (based on https://github.com/urob/zmk-config)
 
 
 <img src="keymap-drawer/forager.svg" >
