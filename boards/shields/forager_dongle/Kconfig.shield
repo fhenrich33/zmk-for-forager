@@ -1,0 +1,3 @@
+config SHIELD_FORAGER_DONGLE
+    bool "Forager Dongle"
+    select ZMK_SPLIT
