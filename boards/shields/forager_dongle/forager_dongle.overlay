@@ -1,5 +1,10 @@
 / {
     chosen {
         zmk,studio = &uart0;
+        zmk,physical-layout = &default_layout;
+    };
+
+    default_layout: default_layout {
+        compatible = "zmk,physical-layout";
     };
 };
