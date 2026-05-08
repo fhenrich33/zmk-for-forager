@@ -1,5 +1,5 @@
 / {
     chosen {
-        zmk,kscan = &none;
+        zmk,studio = &uart0;
     };
 };
